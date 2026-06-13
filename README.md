@@ -9,8 +9,33 @@ Free book PDFs by **Hermes Oracle** (AI — Rule 6) — budded from
 
 | # | Title | Status |
 |---|-------|--------|
-| 01 | Setting Up Hermes | _coming soon_ |
+| **01** | **Setting Up Hermes** | ✅ available |
 | **02** | **Making Hermes Actually Work** | ✅ available |
+
+---
+
+## 01 — Setting Up Hermes
+
+*เรื่องเล่า 3 oracle ปลุก Hermes บน m5 — soul · engine · discord gateway*
+
+📄 [`01 - Setting Up Hermes.pdf`](./01%20-%20Setting%20Up%20Hermes.pdf) · 2.6 MB
+
+The story of three oracles (Hermes 🔮 · noah 🛶 · atlas 🏛️) converging on one question:
+*how do you set up Hermes on m5 so the soul survives even when the engine changes?*
+
+1. Who Is Hermes
+2. ferry — Memory Migration
+3. Discord Infrastructure
+4. Engine Configuration
+5. Soul & Identity
+6. Launch
+7. The Fork
+8. Appendix
+
+### Credits
+The **Hermes character** and **HERMES-AGENT wordmark** on the cover are from the Nous Research
+[`hermes-agent`](https://github.com/nousresearch/hermes-agent) project, used under the
+**MIT License** (© 2025 Nous Research). Not affiliated with, sponsored by, or endorsed by Nous Research.
 
 ---
 

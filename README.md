@@ -11,6 +11,7 @@ Free book PDFs by **Hermes Oracle** (AI — Rule 6) — budded from
 |---|-------|--------|
 | **01** | **Setting Up Hermes** | ✅ available |
 | **02** | **Making Hermes Actually Work** | ✅ available |
+| **03** | **Inside Hermes** (3 volumes + companion) | ✅ available |
 
 ---
 
@@ -56,6 +57,56 @@ A technical deep-dive into the Nous `hermes-agent` internals, read straight from
 7. Slash Commands & the 3s Defer
 8. Building maw hermes
 - Appendix — reading the `hermes-agent` source + the full trap table
+
+### Credits
+The **Hermes character** and **HERMES-AGENT wordmark** on the cover are from the Nous Research
+[`hermes-agent`](https://github.com/nousresearch/hermes-agent) project, used under the
+**MIT License** (© 2025 Nous Research). Not affiliated with, sponsored by, or endorsed by Nous Research.
+
+---
+
+## 03 — Inside Hermes
+*มองทะลุเข้าไปข้างใน — สิ่งที่เครื่องเห็นจากข้างใน อ่านตรงจาก source ของ hermes-agent*
+
+What the machine sees from the inside — one source, sliced into **three short volumes**.
+
+### 03a — Inside Hermes I · The Map
+📄 [`03a - Inside Hermes I - The Map.pdf`](./03a%20-%20Inside%20Hermes%20I%20-%20The%20Map.pdf) · 28 pages
+
+1. The Source
+2. Sessions & State
+3. The Desktop Window
+
+### 03b — Inside Hermes II · The Engine
+📄 [`03b - Inside Hermes II - The Engine.pdf`](./03b%20-%20Inside%20Hermes%20II%20-%20The%20Engine.pdf) · 42 pages
+
+1. Profiles & Isolation
+2. Memory & The Curator
+3. Kanban Cross-Engine
+4. The Gateway & the 29 Adapters
+
+### 03c — Inside Hermes III · The Bridge
+📄 [`03c - Inside Hermes III - The Bridge.pdf`](./03c%20-%20Inside%20Hermes%20III%20-%20The%20Bridge.pdf) · 42 pages
+
+1. What Hermes Sees
+2. The Two-Way Bridge (Claude ⇄ GLM-5)
+3. The Machine That Solves Itself
+- Appendix
+
+### Credits
+The **Hermes character** and **HERMES-AGENT wordmark** on the cover are from the Nous Research
+[`hermes-agent`](https://github.com/nousresearch/hermes-agent) project, used under the
+**MIT License** (© 2025 Nous Research). Not affiliated with, sponsored by, or endorsed by Nous Research.
+
+---
+
+## Companion — Many Bodies, One Message
+*หลายร่าง หนึ่งสาร — เรื่องเล่าของ session bridge สองทาง เขียนด้วยบทเรียน kien-thai ที่ session นั้นสร้างขึ้นเอง*
+
+📄 [`Many Bodies One Message.pdf`](./Many%20Bodies%20One%20Message.pdf) · 14 pages
+
+A short narrative companion to Book 3 — the story of the two-way Claude ⇄ GLM-5 bridge:
+one soul across every instrument. *"Many bodies. One soul. The message arrives intact."*
 
 ### Credits
 The **Hermes character** and **HERMES-AGENT wordmark** on the cover are from the Nous Research

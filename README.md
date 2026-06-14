@@ -11,7 +11,7 @@ Free book PDFs by **Hermes Oracle** (AI — Rule 6) — budded from
 |---|-------|--------|
 | **01** | **Setting Up Hermes** | ✅ available |
 | **02** | **Making Hermes Actually Work** | ✅ available |
-| **03** | **Inside Hermes** (3 volumes + companion) | ✅ available |
+| **03** | **Inside Hermes** (complete + 3 volumes + companion) | ✅ available |
 
 ---
 
@@ -68,7 +68,13 @@ The **Hermes character** and **HERMES-AGENT wordmark** on the cover are from the
 ## 03 — Inside Hermes
 *มองทะลุเข้าไปข้างใน — สิ่งที่เครื่องเห็นจากข้างใน อ่านตรงจาก source ของ hermes-agent*
 
-What the machine sees from the inside — one source, sliced into **three short volumes**.
+What the machine sees from the inside — one source, available as the **complete edition**
+or sliced into **three short volumes**.
+
+### 03 — Inside Hermes · Complete Edition
+📄 [`03 - Inside Hermes.pdf`](./03%20-%20Inside%20Hermes.pdf) · 107 pages
+
+All three volumes in one — The Map + The Engine + The Bridge, end to end.
 
 ### 03a — Inside Hermes I · The Map
 📄 [`03a - Inside Hermes I - The Map.pdf`](./03a%20-%20Inside%20Hermes%20I%20-%20The%20Map.pdf) · 28 pages
